@@ -1,0 +1,5 @@
+1 Run npm install to install the node_modules folder.
+
+2 Run npx json-server --watch db.json to start the json-server.
+
+3 Run ng serve and navigate to the localhost that terminal show.

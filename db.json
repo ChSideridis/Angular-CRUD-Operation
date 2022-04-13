@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": "Kostas",
+      "lastName": "Mauros",
+      "email": "kostas@test.com",
+      "mobile": 6958274612,
+      "salary": 850
+    },
+    {
+      "id": 5,
+      "firstName": "babis",
+      "lastName": "sideridis",
+      "email": "babis@test.com",
+      "mobile": 6977777777,
+      "salary": 700
+    },
+    {
+      "id": 6,
+      "firstName": "Stelios",
+      "lastName": "Gkogkas",
+      "email": "stelios@test.com",
+      "mobile": 6987582671,
+      "salary": 750
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
